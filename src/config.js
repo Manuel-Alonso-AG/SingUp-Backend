@@ -2,7 +2,7 @@ process.loadEnvFile()
 
 const {
   SERVER_PORT = 3000,
-  MONGOODB_URL = 'mongodb+srv://angel:manuelAlonso@cluster0.n6ys4.mongodb.net/DBventas?retryWrites=true&w=majority&appName=Cluster0',
+  MONGOODB_URL = '',
   TOKEN_SECRET = 'secret'
 } = process.env
 
