@@ -13,5 +13,5 @@ Es una API de un sistema de SignUp que puede realizar verificación de usuario (
 git clone https://github.com/Manuel-Alonso-AG/SingUp-Backend.git
 ```
 >[!IMPORTANT]
-## Licencia  
-Este proyecto está licenciado bajo la Licencia MIT. [LICENSE](./LICENSE).
+>## Licencia  
+>Este proyecto está licenciado bajo la Licencia MIT. [LICENSE](./LICENSE).
