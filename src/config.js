@@ -2,7 +2,7 @@ process.loadEnvFile()
 
 const {
   SERVER_PORT = 3000,
-  MONGOODB_URL = '',
+  MONGOODB_URL = 'mongodb://localhost/DBventas',
   TOKEN_SECRET = 'secret'
 } = process.env
 
