@@ -1,5 +1,5 @@
-﻿# SingUp-Backend
-Es una API de un sistema de SingUp que puede realizar verificacion de usuario (Login), Registro de usuario (Register), consulta de la informacion de usuario y editar los datos del usuario.
+﻿# SignUp-Backend
+Es una API de un sistema de SignUp que puede realizar verificación de usuario (Login), registro de usuario (Register), consulta de la información de usuario y editar los datos del usuario.
 
 >[!NOTE]
 >Tecnologías utilizadas  
